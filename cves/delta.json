@@ -1,24 +1,24 @@
 {
-  "fetchTime": "2026-02-16T02:09:57.451Z",
+  "fetchTime": "2026-02-16T03:16:53.692Z",
   "numberOfChanges": 4,
   "new": [
     {
-      "cveId": "CVE-2026-2527",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-2527",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/2xxx/CVE-2026-2527.json",
-      "dateUpdated": "2026-02-16T01:32:05.801Z"
+      "cveId": "CVE-2026-2530",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-2530",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/2xxx/CVE-2026-2530.json",
+      "dateUpdated": "2026-02-16T02:32:06.862Z"
     },
     {
-      "cveId": "CVE-2026-2528",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-2528",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/2xxx/CVE-2026-2528.json",
-      "dateUpdated": "2026-02-16T02:02:07.067Z"
+      "cveId": "CVE-2026-2531",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-2531",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/2xxx/CVE-2026-2531.json",
+      "dateUpdated": "2026-02-16T02:32:10.743Z"
     },
     {
-      "cveId": "CVE-2026-2529",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-2529",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/2xxx/CVE-2026-2529.json",
-      "dateUpdated": "2026-02-16T02:02:08.617Z"
+      "cveId": "CVE-2026-2532",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-2532",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/2xxx/CVE-2026-2532.json",
+      "dateUpdated": "2026-02-16T03:02:09.038Z"
     }
   ],
   "updated": [
@@ -26,7 +26,7 @@
       "cveId": "CVE-2025-7195",
       "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-7195",
       "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/7xxx/CVE-2025-7195.json",
-      "dateUpdated": "2026-02-16T02:08:24.836Z"
+      "dateUpdated": "2026-02-16T03:13:45.091Z"
     }
   ],
   "error": []
