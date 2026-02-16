@@ -1,32 +1,26 @@
 {
-  "fetchTime": "2026-02-16T09:29:18.993Z",
-  "numberOfChanges": 4,
-  "new": [],
-  "updated": [
+  "fetchTime": "2026-02-16T09:50:27.902Z",
+  "numberOfChanges": 3,
+  "new": [
     {
-      "cveId": "CVE-2025-22026",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-22026",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/22xxx/CVE-2025-22026.json",
-      "dateUpdated": "2026-02-16T09:26:04.799Z"
+      "cveId": "CVE-2025-59905",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-59905",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/59xxx/CVE-2025-59905.json",
+      "dateUpdated": "2026-02-16T09:49:45.219Z"
     },
     {
-      "cveId": "CVE-2025-38162",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-38162",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/38xxx/CVE-2025-38162.json",
-      "dateUpdated": "2026-02-16T09:26:06.084Z"
+      "cveId": "CVE-2026-0999",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-0999",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/0xxx/CVE-2026-0999.json",
+      "dateUpdated": "2026-02-16T09:47:45.960Z"
     },
     {
-      "cveId": "CVE-2025-40005",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-40005",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/40xxx/CVE-2025-40005.json",
-      "dateUpdated": "2026-02-16T09:26:07.253Z"
-    },
-    {
-      "cveId": "CVE-2026-23169",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-23169",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/23xxx/CVE-2026-23169.json",
-      "dateUpdated": "2026-02-16T09:26:08.410Z"
+      "cveId": "CVE-2026-2549",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-2549",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/2xxx/CVE-2026-2549.json",
+      "dateUpdated": "2026-02-16T09:32:06.062Z"
     }
   ],
+  "updated": [],
   "error": []
 }
