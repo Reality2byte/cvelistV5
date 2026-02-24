@@ -1,19 +1,20 @@
 {
-  "fetchTime": "2026-02-24T08:24:17.014Z",
+  "fetchTime": "2026-02-24T08:42:44.456Z",
   "numberOfChanges": 2,
-  "new": [],
+  "new": [
+    {
+      "cveId": "CVE-2025-11165",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-11165",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/11xxx/CVE-2025-11165.json",
+      "dateUpdated": "2026-02-24T08:27:07.579Z"
+    }
+  ],
   "updated": [
     {
-      "cveId": "CVE-1999-0073",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-1999-0073",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/1999/0xxx/CVE-1999-0073.json",
-      "dateUpdated": "2026-02-24T08:13:49.764Z"
-    },
-    {
-      "cveId": "CVE-2025-0752",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-0752",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/0xxx/CVE-2025-0752.json",
-      "dateUpdated": "2026-02-24T08:03:27.631Z"
+      "cveId": "CVE-2025-13289",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2025-13289",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2025/13xxx/CVE-2025-13289.json",
+      "dateUpdated": "2026-02-24T08:36:00.332Z"
     }
   ],
   "error": []
