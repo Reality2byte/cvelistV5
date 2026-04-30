@@ -1,12 +1,12 @@
 {
-  "fetchTime": "2026-04-30T01:47:28.147Z",
+  "fetchTime": "2026-04-30T02:47:09.981Z",
   "numberOfChanges": 1,
   "new": [
     {
-      "cveId": "CVE-2026-7469",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-7469",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/7xxx/CVE-2026-7469.json",
-      "dateUpdated": "2026-04-30T01:45:10.912Z"
+      "cveId": "CVE-2026-7470",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-7470",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/7xxx/CVE-2026-7470.json",
+      "dateUpdated": "2026-04-30T02:30:13.346Z"
     }
   ],
   "updated": [],
