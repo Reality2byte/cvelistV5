@@ -1,36 +1,18 @@
 {
-  "fetchTime": "2026-05-02T07:56:53.412Z",
-  "numberOfChanges": 5,
+  "fetchTime": "2026-05-02T08:30:05.769Z",
+  "numberOfChanges": 2,
   "new": [
     {
-      "cveId": "CVE-2026-2052",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-2052",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/2xxx/CVE-2026-2052.json",
-      "dateUpdated": "2026-05-02T07:46:40.524Z"
+      "cveId": "CVE-2026-4024",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-4024",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/4xxx/CVE-2026-4024.json",
+      "dateUpdated": "2026-05-02T08:27:04.649Z"
     },
     {
-      "cveId": "CVE-2026-4650",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-4650",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/4xxx/CVE-2026-4650.json",
-      "dateUpdated": "2026-05-02T07:46:39.963Z"
-    },
-    {
-      "cveId": "CVE-2026-6229",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-6229",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/6xxx/CVE-2026-6229.json",
-      "dateUpdated": "2026-05-02T07:46:41.839Z"
-    },
-    {
-      "cveId": "CVE-2026-6449",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-6449",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/6xxx/CVE-2026-6449.json",
-      "dateUpdated": "2026-05-02T07:46:40.967Z"
-    },
-    {
-      "cveId": "CVE-2026-6457",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-6457",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/6xxx/CVE-2026-6457.json",
-      "dateUpdated": "2026-05-02T07:46:41.352Z"
+      "cveId": "CVE-2026-5324",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-5324",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/5xxx/CVE-2026-5324.json",
+      "dateUpdated": "2026-05-02T08:27:05.238Z"
     }
   ],
   "updated": [],
