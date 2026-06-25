@@ -29,6 +29,8 @@ jobs:
   update-cves:
     environment: deployment
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     env:
       CVE_SERVICES_URL: https://cveawg.mitre.org
       CVE_SERVICES_RECORDS_PER_PAGE: 500
@@ -45,21 +47,27 @@ jobs:
         uses: actions/checkout@v6
         with:
           fetch-depth: 1
+          fetch-tags: false
+          persist-credentials: false
       - name: Setup Node to specific version
         uses: actions/setup-node@v6
         with:
           node-version: 24
       - name: Update CVEs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
         run: |
           export TEMP_TIMESTAMP=$(date '+%Y-%m-%d_%H%M_UTC')
           echo "out=$TEMP_TIMESTAMP" >> $GITHUB_OUTPUT
-          git pull
           git config --global user.email "github_action@example.com"
           git config --global user.name "cvelistV5 Github Action"
-          git remote set-url origin https://${GITHUB_TOKEN}@github.com/${{github.repository}}.git
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git"
+          export BRANCH="${GITHUB_REF_NAME:-main}"
+          git fetch --quiet --no-tags --depth=1 origin "+refs/heads/${BRANCH}:refs/remotes/origin/${BRANCH}"
+          git switch --quiet -C "$BRANCH" "origin/$BRANCH"
           export PREV_TS=$(jq -c -r .[2].fetchTime < $CVES_BASE_DIRECTORY/deltaLog.json)
           node ./.github/workflows/dist/index.js update ${{ github.event.inputs.params }} --start=$PREV_TS
-          git push
+          git push --quiet origin "HEAD:${BRANCH}"
       # - name: output
       #   uses: actions/github-script@v6
       #   with:
