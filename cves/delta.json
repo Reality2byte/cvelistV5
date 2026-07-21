@@ -1,24 +1,12 @@
 {
-  "fetchTime": "2026-07-21T23:29:30.504Z",
-  "numberOfChanges": 3,
+  "fetchTime": "2026-07-21T23:51:20.041Z",
+  "numberOfChanges": 1,
   "new": [
     {
-      "cveId": "CVE-2026-16488",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-16488",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/16xxx/CVE-2026-16488.json",
-      "dateUpdated": "2026-07-21T23:15:10.236Z"
-    },
-    {
-      "cveId": "CVE-2026-63262",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-63262",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/63xxx/CVE-2026-63262.json",
-      "dateUpdated": "2026-07-21T23:07:18.534Z"
-    },
-    {
-      "cveId": "CVE-2026-63263",
-      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-63263",
-      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/63xxx/CVE-2026-63263.json",
-      "dateUpdated": "2026-07-21T23:10:49.155Z"
+      "cveId": "CVE-2026-16489",
+      "cveOrgLink": "https://www.cve.org/CVERecord?id=CVE-2026-16489",
+      "githubLink": "https://raw.githubusercontent.com/CVEProject/cvelistV5/main/cves/2026/16xxx/CVE-2026-16489.json",
+      "dateUpdated": "2026-07-21T23:30:09.680Z"
     }
   ],
   "updated": [],
